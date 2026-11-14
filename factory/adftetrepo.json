@@ -1,0 +1,15 @@
+{
+	"name": "adftetrepo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "762484e6-7cf8-4204-8d42-a7cb467a4176",
+		"tenantId": "b348ef3e-af3a-473e-a88c-dde3060c8650"
+	}
+}
